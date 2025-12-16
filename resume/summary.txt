@@ -1,0 +1,57 @@
+KHAWAJA MUHAMMAD MUSHOOD Software Engineer
+
+CONTACT & SOCIAL LINKS
+
+
+Email: khawaja.muhammad.mushood@gmail.com 
+
+
+Phone: 03024202082 
+
+
+Location: Lahore, Pakistan 
+
+
+
+LinkedIn: https://linkedin.com/in/khawaja-muhammad-mushood 
+
+
+GitHub: https://github.com/mushood123 
+
+
+Medium: https://medium.com/@khawaja.muhammad.mushood 
+
+Portfolio: https://mushood123.github.io/
+
+PROFESSIONAL SUMMARY Accomplished Software Engineer with experience in full-stack development using React, React Native, Node.js, and Nest.js. Proven success in delivering scalable web and mobile applications, optimizing API performance by 30% using Redis cache, and ensuring security and compliance with JWT authentication and HIPAA standards. Skilled in database design with Prisma and PostgreSQL, as well as deploying production-ready solutions on AWS using EC2, Nginx, and PM2. Dedicated to driving innovation through robust coding practices and automation, having reduced deployment times by 60% through CI/CD integration.
+
+
+
+
+
+CORE COMPETENCIES
+
+
+Frontend: React, Redux Toolkit, Context API, Material UI, Tailwind CSS.
+
+
+
+
+
+Backend: Node.js, Nest.js, Express.js, RESTful APIs.
+
+
+
+
+Mobile: React Native, Mapping Solutions, Push Notifications.
+
+
+
+
+Database: PostgreSQL, Prisma ORM, Firebase Realtime Database, Redis.
+
+
+
+
+
+DevOps/Tools: AWS (EC2, RDS), CircleCI, Git/GitHub, Jest, Nginx, PM2.
